@@ -1,0 +1,5 @@
+A new file that will be pushed to new repositary created in github
+commands ->
+1. git remote = to see the origins and with which github repo is aligned
+2. git remote add neworigin master = to make new origin for our new repo
+3.git push -f neworigin master = pushing this file to the new repo that we created
